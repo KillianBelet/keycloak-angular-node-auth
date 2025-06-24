@@ -1,3 +1,3 @@
 # keycloak-integration
 
-Stack: NodeJS/Angular/
+Stack: NodeJS/Angular/Keycloak
